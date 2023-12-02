@@ -4,8 +4,6 @@ tip: pacman -S archinstall && archinstall
 
 also i handle gitconfig with github desktop and use vscodium
 
-## qt qpa platform theme
-i use qgnomeplatform to make qt apps look less shitty without kde, although it still looks bad lol  
 [environment file](environment) belongs in `/etc/environment`
 
 ## notable Flatpak environment variables (use flatseal):
